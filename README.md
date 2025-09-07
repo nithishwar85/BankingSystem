@@ -3,15 +3,12 @@
 This is a small project I built in **C++** to understand how basic banking operations can be implemented using object-oriented programming and file handling.  
 The project is console-based and shows how features like account creation, deposit, withdrawal, and balance inquiry can work in a simple system.  
 
-
-
 ## Features
 - Create a new account  
 - Deposit money  
 - Withdraw money  
 - Check account balance  
 - Save and update details using file storage  
-
 
 
 ##  What I Learned
