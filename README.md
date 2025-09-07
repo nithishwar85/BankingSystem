@@ -15,20 +15,19 @@ Features:-
 
 What I Learned?
 1.How to use classes and objects in C++
+
 2.Applying OOP concepts like encapsulation and abstraction
+
 3.Working with file handling to store and retrieve account data
+
 4.Building a project from scratch and debugging errors
-
-How to Run
-
-Clone or download the repository
-Compile the C++ files using any C++ compiler (like g++ or Turbo C++)
-Run the executable in the terminal/command prompt
-
 
 
 Future Improvements
 
 •Add password-based login system
+
 •Support for multiple users at once
+
 •Better UI with a menu-driven design
+
