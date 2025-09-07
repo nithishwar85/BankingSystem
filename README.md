@@ -1,33 +1,33 @@
-This is a small project I built in C++ to understand how basic banking operations can be implemented using object-oriented programming and file handling.
-The project is console-based and shows how features like account creation, deposit, withdrawal, and balance inquiry can work in a simple system.
+# Advanced Banking System (C++)
 
-Features:-
+This is a small project I built in **C++** to understand how basic banking operations can be implemented using object-oriented programming and file handling.  
+The project is console-based and shows how features like account creation, deposit, withdrawal, and balance inquiry can work in a simple system.  
 
-•Create a new account
+---
 
-•Deposit money
+## Features
+- Create a new account  
+- Deposit money  
+- Withdraw money  
+- Check account balance  
+- Save and update details using file storage  
 
-•Withdraw money
+---
 
-•Check account balance
+##  What I Learned
+- How to use classes and objects in C++  
+- Applying OOP concepts like encapsulation and abstraction  
+- Working with file handling to store and retrieve account data  
+- Building a project from scratch and debugging errors  
 
-•Save and update details using file storage
+---
 
-What I Learned?
-1.How to use classes and objects in C++
+##  How to Run
+1. Clone or download the repository  
+2. Compile the C++ files using any C++ compiler (like `g++`)  
+3. Run the executable in the terminal/command prompt  
 
-2.Applying OOP concepts like encapsulation and abstraction
-
-3.Working with file handling to store and retrieve account data
-
-4.Building a project from scratch and debugging errors
-
-
-Future Improvements
-
-•Add password-based login system
-
-•Support for multiple users at once
-
-•Better UI with a menu-driven design
-
+Example:  
+```bash
+g++ main.cpp -o banking
+./banking
